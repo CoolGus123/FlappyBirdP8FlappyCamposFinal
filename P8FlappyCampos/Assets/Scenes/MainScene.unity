@@ -995,7 +995,7 @@ Camera:
   far clip plane: 1000
   field of view: 60
   orthographic: 1
-  orthographic size: 5
+  orthographic size: 4.33
   m_Depth: -1
   m_CullingMask:
     serializedVersion: 2
@@ -1579,7 +1579,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   gameOverText: {fileID: 225046722}
-  scoreText: {fileID: 0}
+  scoreText: {fileID: 427658657}
   gameOver: 0
   scrollSpeed: -1.5
 --- !u!4 &2136780755
@@ -1610,10 +1610,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   columnPoolSize: 5
-  columnPrefab: {fileID: 0}
+  columnPrefab: {fileID: 464050711966901018, guid: 8e47128407508514ebf04a8a988e0593, type: 3}
   spawnRate: 4
-  columnMin: -1
-  columnMax: 3.5
+  columnMin: -2
+  columnMax: 2
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0
